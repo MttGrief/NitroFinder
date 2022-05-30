@@ -1,0 +1,4 @@
+requests
+discord_wenhook
+colored
+numpy
