@@ -1,4 +1,4 @@
 requests
-discord_wenhook
+discord_webhook
 colored
 numpy
